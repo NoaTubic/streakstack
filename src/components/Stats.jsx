@@ -31,7 +31,7 @@ export function Stats({ stats }) {
         const IconComponent = stat.icon;
         return (
           <Card key={index} className="hover:shadow-md transition-shadow">
-            <CardContent className="p-6">
+            <CardContent className="px-6 pt-4 pb-6">
               <div className="flex items-center justify-between">
                 <div>
                   <p className="text-sm text-gray-500 mb-1">{stat.label}</p>

@@ -4,6 +4,8 @@ A minimalist daily habit tracker with stunning 3D tower visualizations. Build yo
 
 ![StreakStack](https://img.shields.io/badge/React-18-blue) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8) ![Three.js](https://img.shields.io/badge/Three.js-Latest-black)
 
+<img width="844" height="811" alt="Screenshot 2025-11-23 at 17 07 08" src="https://github.com/user-attachments/assets/76852d15-bb8a-4f04-9727-9a6c46485aca" />
+
 ## Features ✨
 
 ### 🏗️ 3D Tower Visualization

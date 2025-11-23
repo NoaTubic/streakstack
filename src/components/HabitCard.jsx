@@ -25,8 +25,8 @@ export function HabitCard({
       }`}
       onClick={onToggle}
     >
-      <CardContent className="p-4">
-        <div className="flex items-center justify-between mb-3">
+      <CardContent className="p-6">
+        <div className="flex items-center justify-between mb-4">
           <div className="flex items-center gap-3">
             <div
               className="w-12 h-12 rounded-full flex items-center justify-center"
@@ -65,7 +65,7 @@ export function HabitCard({
           </div>
         )}
 
-        <div className="flex gap-2 mt-3" onClick={(e) => e.stopPropagation()}>
+        <div className="flex gap-2 mt-4" onClick={(e) => e.stopPropagation()}>
           <Button
             variant="ghost"
             size="sm"

@@ -25,7 +25,7 @@ export function HabitCard({
       }`}
       onClick={onToggle}
     >
-      <CardContent className="p-6">
+      <CardContent className="px-6 pt-7 pb-6">
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center gap-3">
             <div

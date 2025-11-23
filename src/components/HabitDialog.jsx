@@ -10,11 +10,26 @@ import { Button } from './ui/button';
 import { ICON_MAP } from '../hooks/useHabits';
 
 const AVAILABLE_ICONS = [
-  { name: 'WaterDrop', label: 'Water Drop' },
+  { name: 'WaterDrop', label: 'Water' },
   { name: 'SelfImprovement', label: 'Meditation' },
   { name: 'MenuBook', label: 'Book' },
   { name: 'DirectionsRun', label: 'Running' },
   { name: 'Restaurant', label: 'Food' },
+  { name: 'FitnessCenter', label: 'Gym' },
+  { name: 'LocalCafe', label: 'Coffee' },
+  { name: 'Bedtime', label: 'Sleep' },
+  { name: 'Spa', label: 'Relaxation' },
+  { name: 'Nature', label: 'Nature' },
+  { name: 'MusicNote', label: 'Music' },
+  { name: 'Brush', label: 'Art' },
+  { name: 'Work', label: 'Work' },
+  { name: 'Psychology', label: 'Mental' },
+  { name: 'Favorite', label: 'Heart' },
+  { name: 'DirectionsBike', label: 'Cycling' },
+  { name: 'Pool', label: 'Swimming' },
+  { name: 'LocalFlorist', label: 'Flower' },
+  { name: 'EmojiPeople', label: 'Social' },
+  { name: 'AutoStories', label: 'Journal' },
 ];
 
 const AVAILABLE_COLORS = [

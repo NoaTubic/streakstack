@@ -4,6 +4,21 @@ import SelfImprovementIcon from '@mui/icons-material/SelfImprovement';
 import MenuBookIcon from '@mui/icons-material/MenuBook';
 import DirectionsRunIcon from '@mui/icons-material/DirectionsRun';
 import RestaurantIcon from '@mui/icons-material/Restaurant';
+import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
+import LocalCafeIcon from '@mui/icons-material/LocalCafe';
+import BedtimeIcon from '@mui/icons-material/Bedtime';
+import SpaIcon from '@mui/icons-material/Spa';
+import NatureIcon from '@mui/icons-material/Nature';
+import MusicNoteIcon from '@mui/icons-material/MusicNote';
+import BrushIcon from '@mui/icons-material/Brush';
+import WorkIcon from '@mui/icons-material/Work';
+import PsychologyIcon from '@mui/icons-material/Psychology';
+import FavoriteIcon from '@mui/icons-material/Favorite';
+import DirectionsBikeIcon from '@mui/icons-material/DirectionsBike';
+import PoolIcon from '@mui/icons-material/Pool';
+import LocalFloristIcon from '@mui/icons-material/LocalFlorist';
+import EmojiPeopleIcon from '@mui/icons-material/EmojiPeople';
+import AutoStoriesIcon from '@mui/icons-material/AutoStories';
 
 const DEFAULT_HABITS = [
   { id: '1', name: 'Drink Water', icon: 'WaterDrop', color: '#3b82f6' },
@@ -19,6 +34,21 @@ export const ICON_MAP = {
   MenuBook: MenuBookIcon,
   DirectionsRun: DirectionsRunIcon,
   Restaurant: RestaurantIcon,
+  FitnessCenter: FitnessCenterIcon,
+  LocalCafe: LocalCafeIcon,
+  Bedtime: BedtimeIcon,
+  Spa: SpaIcon,
+  Nature: NatureIcon,
+  MusicNote: MusicNoteIcon,
+  Brush: BrushIcon,
+  Work: WorkIcon,
+  Psychology: PsychologyIcon,
+  Favorite: FavoriteIcon,
+  DirectionsBike: DirectionsBikeIcon,
+  Pool: PoolIcon,
+  LocalFlorist: LocalFloristIcon,
+  EmojiPeople: EmojiPeopleIcon,
+  AutoStories: AutoStoriesIcon,
 };
 
 const getTodayString = () => {
